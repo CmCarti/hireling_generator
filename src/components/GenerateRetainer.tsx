@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Retainer from "../types/Retainer";
-import generateAbilityScores from "../functions/generateAbilityScores";
+
 import generateAdventurer from "../functions/generateAdventurer";
 
 const GenerateRetainer = () => {

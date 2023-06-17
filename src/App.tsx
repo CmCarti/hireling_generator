@@ -1,17 +1,13 @@
-import './App.css'
-import {DiceRoll} from '@dice-roller/rpg-dice-roller';
-import GenerateRetainer from './components/GenerateRetainer';
+import "./App.css";
 
+import GenerateRetainer from "./components/GenerateRetainer";
 
 function App() {
-  
-
-
   return (
     <>
-    <GenerateRetainer />
+      <GenerateRetainer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
